@@ -1,9 +1,5 @@
 ﻿
 # LeetCode Challenge D51
-## Achievements
-[![image.png](https://i.postimg.cc/3NSzzcsy/image.png)](https://postimg.cc/WqZ9kXbj)
-This solution outperformed 100% of Java users on LeetCode according to runtime metrics.
-
 
 ## Overview
 
@@ -22,7 +18,7 @@ You must do it  [in place](https://en.wikipedia.org/wiki/In-place_algorithm).
 >**Output:** [[1,0,1],[0,0,0],[1,0,1]]
 
 **Language Used**
-> MySQL
+> Java
 
 **Difficulty**
 > Medium
