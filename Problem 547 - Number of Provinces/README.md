@@ -4,7 +4,7 @@
 
 ## Overview
 
-Welcome to my LeetCode solution repository! This project addresses the coding challenge presented by [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/). Below, you'll find details about the problem, my approach to solving it, and the implemented solution.
+Welcome to my LeetCode solution repository! This project addresses the coding challenge presented by [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/). Below, you'll find details about the problem, my approach to solving it, and the implemented solution. 
 
 ## Problem Statement
 
