@@ -12,7 +12,7 @@ Return _the sum of the_  `k`  _integers appended to_  `nums`.
 
 **Example**
 >**Input:** nums = [1,4,25,10,25], k = 2
->
+> 
 >**Output:** 5
 >
 >**Explanation:** The two unique positive integers that do not appear in nums which we append are 2 and 3.
