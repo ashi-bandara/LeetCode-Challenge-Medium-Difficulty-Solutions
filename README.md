@@ -8,7 +8,7 @@ This repository is a part of my personal challenge where I aim to solve one medi
 ## Progress
 - **Day 1-50:** Easy problems solved
 - **Day 51-150:** Medium problems (current challenge)
-- **Day 151-260:** Future challenges (TBD)
+- **Day 151-260:** Future challenges (TBD) 
 
 ## Getting Started
 Each problem's solution is organized into its own directory and includes:
