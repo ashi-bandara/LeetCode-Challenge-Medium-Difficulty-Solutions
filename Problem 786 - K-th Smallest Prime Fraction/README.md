@@ -12,7 +12,7 @@ You are given a sorted integer array  `arr`  containing  `1`  and  **prime**  nu
 For every  `i`  and  `j`  where  `0 <= i < j < arr.length`, we consider the fraction  `arr[i] / arr[j]`.
 
 Return  _the_  `kth`  _smallest fraction considered_. Return your answer as an array of integers of size  `2`, where  `answer[0] == arr[i]`  and  `answer[1] == arr[j]`.
-
+ 
 **Example**
 >**Input:** arr = [1,2,3,5], k = 3
 >
