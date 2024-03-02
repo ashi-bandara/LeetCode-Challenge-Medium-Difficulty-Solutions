@@ -1,5 +1,4 @@
-
-# LeetCode Challenge D61
+# LeetCode Challenge D61 
 ## Overview
 
 Welcome to my LeetCode solution repository! This project addresses the coding challenge presented by [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/). Below, you'll find details about the problem, my approach to solving it, and the implemented solution.
