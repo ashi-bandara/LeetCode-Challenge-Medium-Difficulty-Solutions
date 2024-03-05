@@ -1,4 +1,4 @@
-# Medium LeetCode Challenge Solutions
+# Medium Difficulty LeetCode Challenge Solutions
 
 Welcome to my repository containing solutions to medium difficulty challenges on LeetCode! 
 
